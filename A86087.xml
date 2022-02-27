@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvarning to the rulers in Surrey, &amp;c. with a true relation of some of the passages at Kingston sessions, set forth for the prevention of false reports.</title>
+            <author>Harwood, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86087</idno>
+            <idno type="STC">Wing H1105A</idno>
+            <idno type="STC">ESTC R177904</idno>
+            <idno type="EEBO-CITATION">45789337</idno>
+            <idno type="OCLC">ocm 45789337</idno>
+            <idno type="VID">172648</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172648)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2643:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvarning to the rulers in Surrey, &amp;c. with a true relation of some of the passages at Kingston sessions, set forth for the prevention of false reports.</title>
+                  <author>Harwood, John.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for thee,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Harwood.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Surrey --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172648:1" rendition="simple:additions"/>
+            <head>A VVARNING TO THE RVLERS in SVRREY, &amp;c. WITH A true Relation of ſome of the Paſſages at <hi>Kingſton</hi> Seſſions, ſet forth for the pre<g ref="char:EOLhyphen"/>vention of falſe Reports.</head>
+            <p>Upon the 9th. day of the 8th. Month 1662. at the Quar<g ref="char:EOLhyphen"/>ter Seſſions at <hi>Kingſton</hi> up <hi>Thames,</hi> many of the Lords people (called Quakers, with others) being brought thither to be tryed were Innocently attending the Court for Iuſtice; and ſome of them ſeeing the unequal and Illeagal pro<g ref="char:EOLhyphen"/>ceedings of the Court, were exceedingly burthened and oppreſſed, ſo that they could not forbear, but in the zeal of God cryed againſt their perverting, and deferring of Juſtice and Judgment, contrary to Law, Equity and pure Reaſon, which is, or ought to be the very ground and foundation of the Subſtance of all Nati<g ref="char:EOLhyphen"/>onal
+<pb n="2" facs="tcp:172648:2"/>Laws which are or ought to be made for no other end, but for ſup<g ref="char:EOLhyphen"/>preſſing of Vice, wickedneſs &amp; unrighteouſneſs; &amp; for the curbing &amp; puniſhment of Evil doers as ſaith the Scripture of truth, <hi>The Law is not made for the Righteous but for Sinners</hi> &amp;c. So that it is clearly evident that the end of the Law is for the cutting down of Sin, &amp; tranſgreſſion, and not for puniſhing of Innocent harm leſs people, as it is to much uſed, and executed at this day in many places, to the ſadning the hearts of many thouſands of ſober god<g ref="char:EOLhyphen"/>ly people; who fees and perfectly diſcerns, that Juſtice is per<g ref="char:EOLhyphen"/>verted, and Judgment is turned backward; the edge of the ſword of Juſtice is now turned againſt the Innocent, and ſuch as truly feare God, with which they ſeek to cut down truth and Righteouſneſs where ever it doth appear; and in the defence of the unrighreous Generation, who at this day go on in their ex<g ref="char:EOLhyphen"/>ceeding groſs Abomination, as it they were Licenced by Supe<g ref="char:EOLhyphen"/>rior powers, but to the greif of many ſincere hearted it is ſeen to be to much tollerated, that it cannot be avoided, but undoubo<g ref="char:EOLhyphen"/>edly the ſevere Judgments of the Righteous God muſt ſhortly be manifeſted to the final diſſolation of ſuch as are the cauſe of theſe things, without ſpeedy Converſion, therefore it is full time for all the wicked to Repent, and ceaſe from their cruelty and oppreſſion, before the day of deſtruction come, which haſteneth, and cannot be avoided without humility and true unfaigned Re<g ref="char:EOLhyphen"/>pentance: for this I ſay in a clear and true diſcerning in the zeal of Gods Glory, that the almerciful God of Juſtice is Angry with the unrighteous proceedings of the heads of this Nation; And his wrath is kindled as a mighty flame againſt the abominations of the times, which will burne and Conſume the wicked, who are as Stubble and Chaff before the fire; ſo that I ſay it is now full time to Repent leaſt the day determined, for the Conſumption of the wicked come upon you, as a Theif in the night, as it came upon them which God overturned before you: and you be cut off in the height of your Iniquity, and ſo periſh Eternally; but the Lord knows my heart, that I deſire not the deſtruction of any mans perſon, but rather the Converſion the whole Creation of mankind; neither doth the compaſſionate God of bowels of infinite mercys deſire the death or deſtruction of any, but had ra<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:172648:2"/>all would turne from the evil of their ways, to find mercy and live; ſo that Wiſdome concludeth that every mans de<g ref="char:EOLhyphen"/>ſtruction is of himſelf, that he alone is the very cauſe of it, and not the Lord whoſe mercys are over all his works; ſo that if you hearken not to the Counſel of the moſt High, and ſpeedi<g ref="char:EOLhyphen"/>ly repent and amend your Lives, you ſhall certainly know that your deſtruction is of your ſelves; as <hi>Iſraels</hi> was, who rebelled againſt the Lord and refuſed to hear his voice, and kicked againſt his reproof; and deſpiſed his Servants and Meſſengers, as ye have done and do at this day; Oh that you would hear the Lord and anſwer his call, that ye might live and finde mercy; this is the worſt my Soul deſires for you: Oh make not lyes your Re<g ref="char:EOLhyphen"/>fuge as the Wicked have done in all Ages; caſt not that from you upon others, which truly and properly belongs unto you, leaſt you further provoke the Lord, do not accuſe an Innocent people with Acts of Violence, who cannot lift up a hand againſt any man in Anger for a thouſand words; have not we been a ſuf<g ref="char:EOLhyphen"/>fering people ever ſince God raiſed us, when we have been beaten and abuſed, we have not reſiſted when we have been by unmerci<g ref="char:EOLhyphen"/>ful people ſmitten on the one cheek, have not we turned the other, let the witneſs of Truth in all your Conſciences anſwer; can you ſtand clear in the ſight of God and Juſt men; if you unjuſtly accuſe a ſuffering people, with that which you are guilty of your ſelves? will not the patient Innocent ſufferings of the Lords people ſtand as a living Teſtimony againſt you, for ever, if you ſhould caſt any aſpertions upon ſuch as cannot lift up a hand againſt any man; cannot in any wiſe render evil for evil to any man; now if you do go about to cover your unequal proceedings againſt the In<g ref="char:EOLhyphen"/>nocent, with your Acts of Violence, and falſe aſpertions, you ſhall know that our God will right us and clear our Innocency, to the ſhame and confuſion in the end: And now I ſhall appeale to the Witneſs of God in you, and in all others who took a Real &amp; true view of your proceedings at <hi>Kingſton Seſſions,</hi> was not you the Original cauſe of the Tumult and uproare in the Court; you who are in Commiſſion for the Miniſtration of Juſtice; did not you defer Juſtice, which the Law ſaith is a deniall of Juſtice, and was not that the very cauſe that made the oppreſſed cry a<g ref="char:EOLhyphen"/>loud for Juſtice, which you could not indure to hear; which you
+<pb n="4" facs="tcp:172648:3"/>ſhould have appeaſed doing Juſtice, and executing true Judg<g ref="char:EOLhyphen"/>ment, without deferring or perverting; conſider would not this have kept all ſpirits down quiet and peaceable which you neglect<g ref="char:EOLhyphen"/>ed; better then all your acts of violence; And did not your ſet<g ref="char:EOLhyphen"/>ing on the under Sheriffe with the Bayliffs &amp; Officers to clear the Court cauſe the outcry that was made? Let the truth in you anſwer; was ever the like heard of, that the Bench ſhould ſet the Sheriffe on work to drive out by force and violence, Priſo<g ref="char:EOLhyphen"/>ners attending for Juſtice; is not this a ſhame to Authority, to ſee, hear of, and alow ſuch things; what need was there for ſend<g ref="char:EOLhyphen"/>ing for aid and aſſiſtance, when there was not a hand lift up a<g ref="char:EOLhyphen"/>gainſt you; And did not thoſe which came with Guns, Clubs and Staves, with the Sheriff and Bayliffs and other Officers make the uproare, was it not them with the Rude Multitude which made the great out cry, and noyſe, who with fury and violence fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt the Priſoners out of the Court, beating &amp; abuſing of the In<g ref="char:EOLhyphen"/>nocent, who cryed aloud only for Juſtice; but inſtead of anſwer<g ref="char:EOLhyphen"/>ing the cry of the oppreſſed by doing Juſtice, cauſed them to be groſly abuſed, ſome being pul'd down from their places (where they were waiting in expectation to be called to Tryall, who was brought thither on purpoſe to be Tryed) and ſome their Coats rent in peices, and others thrown down the ſtaires with violence to the endangering of their Lives and is not this your own doings which is contrary to good order &amp; Government, will not this be too ſhort &amp; too narrow a Covering for to hide your Illegal pro<g ref="char:EOLhyphen"/>ceedings againſft the Innocent nay, will it not render you odious in the ſight of God, ard Juſt men, who ſees through and over all ſuch things; I was an eye witneſs of theſe things, and ſaw clear<g ref="char:EOLhyphen"/>ly the very ground and only cauſe of the Tumult and uproare in the Court; And I cannot but in the name and fear of God de<g ref="char:EOLhyphen"/>clare it, and publiſh abroad for the prevention of falſe Intelli<g ref="char:EOLhyphen"/>gence, that the Innocent may be cleared from all ſuch things, which indeed and in truth, we are clear from in the ſight of God in whoſe ſight we ſtand Juſtified as to that particuler, what ever may be charged againſt us, or layd upon us, for this I aſſert with perfect &amp; true knowledge, that if the Sheriff had kept his place, &amp; the Bench not deferred but executed Juſtice &amp; Judgement accor<g ref="char:EOLhyphen"/>ding
+<pb n="5" facs="tcp:172648:3"/>to righteouſneſs there had been no Tumult, nor out<g ref="char:EOLhyphen"/>cry, or uproar at all in the Court, for theſe things ſpecified was the very ground &amp; Original cauſe of it; and truely theſe things gives an ill ſavour to the Country, to ſuffer Innocent men (attending for Juſtice) to be beaten, &amp; groſly abuſed, and their Cloaths rent in their preſence, even in the face of the Court Oh what a diſhonour is this to the King and Supreame Authori<g ref="char:EOLhyphen"/>ty in this Nation, that ſuch men as theſe ſhould be in Autho<g ref="char:EOLhyphen"/>rity to canſe the Innocent thus to ſuffer, by deferring Juſtice and Judgment: Should not the Miniſters of the Law informe the Ignorant, and not ſeek to Enſnare and Entangle them, is it not the place of a Miniſter to open the Law, and to Inſtruct ſuch as are Ignorant; and ſhould not Juſtice be Miniſtred with<g ref="char:EOLhyphen"/>out delay, and not put men off by deferring the time upon pre<g ref="char:EOLhyphen"/>tended excuſes; ſhould not ſuch be cleared in open Court, by Pro<g ref="char:EOLhyphen"/>clamation; who have none come againſt them to accuſe them, and ſhould not the Accuſer be brought to the Bar before the Accuſed, and ſo have a Tryal and quit, or know his puniſhment, Read and anſwer theſe things in the Line of Truth and Righte<g ref="char:EOLhyphen"/>ouſneſs, and then you may ſee whether you ſtand clear or no, in your late proceedings before the Lord and ſuch as fear him; doth not your own Law condemn you for the neglect of theſe things; And inſtead of bringing men to a Tryal without delay who deſire Juſtice; did you not put them off, and ſeek to Entangle them with Bonds &amp; Covenants, &amp; would have had ſuch as ſuffered divers Weeks cloſe Impriſonment, to have given Bond for their future appearance, at the next Seſſions, when you know it is contrary to our principles and ordinary practice; ſo that it is clearly ſeen, that you ſeek to Enſnare us, and keep us in Bonds and not do us Juſtice as the Law requires, which ye muſt anſwer for at the Righteous Tribunal before the great Judge of Heaven and Earth, from whom you cannot hide your ſelves: Oh Hor<g ref="char:EOLhyphen"/>rible will not theſe groſs Abominations haſten Gods Judgments, let the Truth in all hearts Judge; although you in Authority ſhut your Ears againſt the cry of the oppreſſed, (who are bound by the Law of Truth in their own hearts, to perform their Cove<g ref="char:EOLhyphen"/>nants and Promiſes) and though you will not hear nor releeve
+<pb n="6" facs="tcp:172648:4"/>them, yet know this in truth the Eare of the God of Judgement is open, and he will hear and anſwer the Crys and Groans of the afflicted and will plead our Cauſe againſt all our oppreſſors, and our Enemies ſhall be rewarded according to their Works, and ye ſhall not eſcape his hand who refuſe to do Juſtice, and op<g ref="char:EOLhyphen"/>preſs the Innocent; <hi>For the ſame meaſure you meet withal, ſhall be meaſured to you again;</hi> ſaith the God of Equity.</p>
+            <closer>
+               <signed>By a Lover of Iuſtice and Iudgement who waits to ſee Truth and Righte<g ref="char:EOLhyphen"/>ouſneſs Reign and flouriſh in this Iſland, and at preſent a ſufferer in Innocency for the Teſti<g ref="char:EOLhyphen"/>mony of Ieſus. <hi>John Harwood.</hi>
+               </signed>
+               <dateline>
+                  <hi>White Lyon</hi> Priſon in <hi>Southwark</hi> 
+                  <date>this 22d. day of the 8th. Month 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for Thee 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
